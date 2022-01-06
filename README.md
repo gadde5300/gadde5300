@@ -11,4 +11,4 @@
 
 💬 If you ever want to say Hi!
 - 📫 Drop by at: [gadde@johnsnowlabs.com](mailto:gadde@johnsnowlabs.com)
-- ⚡ Or DM on: [Linkedin](www.linkedin.com/in/shailesh5300)
+- ⚡ Or DM on: [www.linkedin.com/in/shailesh5300](www.linkedin.com/in/shailesh5300)
