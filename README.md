@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Shailesh's github stats](https://github-readme-stats.vercel.app/api?username=gadde5300&show_icons=true&theme=radical&title_color=B9FFB7&icon_color=ffbe0b&text_color=4cc9f0)]()
+[![Shailesh's github stats](https://github-readme-stats.vercel.app/api?username=gadde5300&show_icons=true&theme=radical&title_color=B9FFB7&icon_color=ffbe0b&text_color=4cc9f0&hide_border=tru)]()
 
 👋 My name is Sai Shailesh. I am a Computer Science Senior who juggles his studies and life as a Data Scientist. 
 
