@@ -11,6 +11,12 @@
 
 💙 I love to read and interact with people! (So much that even Covid-19 did not stop me from connecting with people : )
 
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=gadde5300&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+
 💬 If you ever want to say Hi!
-- 📫 Drop by at: [gadde@johnsnowlabs.com](mailto:gadde@johnsnowlabs.com)
-- ⚡ Or DM on: [Linkedin](www.linkedin.com/in/shailesh5300/)
+## 🌐Socials
+
+[![Mail](https://img.shields.io/badge/Mail-Outlook-blue)](mailto:gadde@johnsnowlabs.com ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/shailesh5300/ ) 
+
