@@ -4,7 +4,7 @@
 
 ⚓ I am Currently working at [John Snow Labs](https://www.johnsnowlabs.com/) as a Data Scientist
 
-📍 I live in India.
+📍 I live in the United States Of America.
 
 💙 I love to read and interact with people! (So much that even Covid-19 did not stop me from connecting with people : )
 
