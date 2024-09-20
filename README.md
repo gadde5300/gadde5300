@@ -2,7 +2,7 @@
 
 👋 My name is Sai Shailesh. I am a Computer Science Senior who juggles his studies and life as a Data Scientist. 
 
-⚓ I am Currently working at [John Snow Labs](https://www.johnsnowlabs.com/) as a Data Scientist
+⚓ I am currently pursuing my Master's in Computer Science from the University Of Dayton!
 
 📍 I live in the United States Of America.
 
