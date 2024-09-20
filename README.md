@@ -6,7 +6,7 @@
 
 📍 I live in the United States Of America.
 
-💙 I love to read and interact with people! (So much that even Covid-19 did not stop me from connecting with people : )
+💙 I love to read, exercise and interact with people! 
 
 ## 📊GitHub Stats :
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gadde5300&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
