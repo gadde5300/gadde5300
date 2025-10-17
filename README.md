@@ -18,6 +18,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=gadde5300&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 #### 💬 If you ever want to say Hi!
-[![Mail](https://img.shields.io/badge/Mail-Outlook-blue)](mailto:gadde@johnsnowlabs.com ) 
+[![Mail](https://img.shields.io/badge/Mail-Outlook-blue)](mailto:gadde5300@gmail.com ) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shailesh5300 )
 
